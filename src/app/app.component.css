@@ -1,0 +1,21 @@
+form{
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   flex-direction: row;
+}
+label{
+   font-weight: bold;
+   font-size: large;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+input{
+   padding: 5px;
+   margin: 10px;
+}
+button{
+   width:fit-content;
+}
+h4{
+   color: cornflowerblue;
+}
